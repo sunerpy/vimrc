@@ -109,6 +109,7 @@ augroup vimrcEx
 
   " For all text files set 'textwidth' to 78 characters.
   autocmd FileType text setlocal textwidth=78
+  autocmd FileType yaml setlocal cursorcolumn
 augroup END
 
 " Add optional packages.
