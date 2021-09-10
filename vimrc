@@ -1,3 +1,5 @@
+set enc=utf-8
+set fileencodings=utf-8,ucs-bom,gb18030
 set nocompatible              " be iMproved, required
 filetype off                  " required
 "
